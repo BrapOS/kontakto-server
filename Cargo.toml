@@ -1,0 +1,6 @@
+[package]
+name = "kontakto-server"
+version = "0.1.0"
+authors = ["Bruno Roy <brusi_roy@hotmail.com>"]
+
+[dependencies]
