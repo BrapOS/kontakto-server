@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Bruno Roy <brusi_roy@hotmail.com>"]
 
 [dependencies]
+grpcio = "0.3.0"
+protobuf = "2.0.4"
+futures = "0.1.23"
