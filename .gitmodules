@@ -1,0 +1,3 @@
+[submodule "kontakto-common"]
+	path = kontakto-common
+	url = https://github.com/BrapOS/kontakto-common.git
